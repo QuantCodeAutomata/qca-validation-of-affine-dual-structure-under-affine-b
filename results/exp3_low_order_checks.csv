@@ -1,0 +1,3 @@
+label,u1_diff,u2_diff,u2_leq_0,X1_max_diff,X2_max_diff
+Config1,0.0,0.0,True,0.0,0.0
+Config2,0.0,0.0,True,0.0,0.0
